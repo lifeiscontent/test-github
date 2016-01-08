@@ -4,5 +4,5 @@ This is my Learn.ModernDeveloper repository for the entire time that I am a stud
 # Table of Contents
 
 ## [Course 1: Communicating Effectively For Success](Course-01-Communicating-Effectively-For-Success)
-## The second course link will go here.
-## The third course link will here, and so on.
+## [example link 1](http://duckduckgo.com)
+## [example link 2](http://google.com)
