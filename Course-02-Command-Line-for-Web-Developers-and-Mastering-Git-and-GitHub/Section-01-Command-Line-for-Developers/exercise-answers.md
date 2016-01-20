@@ -210,3 +210,31 @@ find *.md *.html *.txt -delete
 
 ### Exercises 3 - Advanced
 
+1.
+
+```
+#!/usr/bin/env bash
+echo Expanding $1 into  $2
+mkdir $2
+tar -zxf $1 -C $2
+echo "done"
+```
+
+2.
+
+```
+obed:commandline-practice obed_work$ clear
+#!/usr/bin/env bash
+
+mkdir $1
+
+
+mkdir css
+mkdir images
+mkdir js
+touch css/style.css
+touch js/main.js
+git clone https://github.com/h5bp/html5-boilerplate.git
+
+````
+
