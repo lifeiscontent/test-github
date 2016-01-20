@@ -207,3 +207,6 @@ mv backup2.tar commandline-practice/backups/
 cd commandline-practice
 find *.md *.html *.txt -delete
 ```
+
+### Exercises 3 - Advanced
+
