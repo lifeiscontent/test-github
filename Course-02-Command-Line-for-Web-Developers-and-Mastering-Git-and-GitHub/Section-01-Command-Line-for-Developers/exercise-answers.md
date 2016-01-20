@@ -1,5 +1,7 @@
 # Exercise Answers
 
+### Exercise 1 - Beginner
+
 1.  
   ```
   cd ../../
@@ -107,3 +109,78 @@
   ```
   rm -rf yesterdays_todo_list.md
   ```
+
+### Exercise 2 - Intermediate
+
+mkdir ~/commandline-practice
+
+cd ~/commandline-practice
+
+1.
+
+touch myname.md
+echo Obed Ampah > myname.md
+
+touch myfavoritefoods.md
+echo Pizza Salads Gummie Bears > myfavoritefoods.md
+
+touch dreamproject.md
+echo I would like to create an app to make interactive collages.  > dreamproject.md
+
+touch music.md
+echo Michael Franks - The Art of Tea - 1975 > music.md
+
+touch colors.md
+echo green > colors.md
+
+2.
+
+ls -lh >> filesizes.txt
+
+3.
+
+mkdir backups
+cd ..
+tar -czf backup1.tar commandline-practice
+mv backup1.tar commandline-practice/backups/
+
+4.
+
+touch sites.txt
+echo $'\ngoogle.com\n' >> sites.txt
+echo $'\nrotoworld.com\n' >> sites.txt
+echo $'\namazon.com\n' >> sites.
+
+5.
+
+curl -L study.moderndeveloper.com >> study.html 
+
+6.
+
+cd commandline-practice
+mv backup1.tar `date`
+
+7.
+
+cd ..
+wc -w dreamproject.md 
+
+echo $'\nMy collage application would take in all your moments and display them in an ineractive collage.\n' >> dreamproject.md
+
+8. 
+
+grep -R "\.js" study.html >> javascripts.html
+
+9.
+
+cd ..
+cat *.txt | wc
+
+10.
+
+cd ~/commandline-practice
+cd ..
+tar -czf backup2.tar commandline-practice/
+mv backup2.tar commandline-practice/backups/
+cd commandline-practice
+find *.md *.html *.txt -delete
