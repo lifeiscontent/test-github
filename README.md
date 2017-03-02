@@ -3,12 +3,11 @@ This is my Learn.ModernDeveloper repository for the entire time that I am a stud
 
 # Table of Contents
 
----
 
-## [Course 1: Communicating Effectively For Success](Course-01-Communicating-Effectively-For-Success)
+## [Course 1: Command Line for Web Developers and Mastering Git and GitHub](Course-01-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub/)
 
-## [Course 2: Command Line for Web Developers and Mastering Git and GitHub](Course-02-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub)
+## [Course 2: Intro to Javascript](Course-02-Intro-to-Javascript/)
 
-## [Course 3: Math for Web Programmers](Course-03-Math-for-Web-Programmers)
+## [Course 3: Introductory Math for Programmers](Course-03-Introductory-Math-for-Programmers/)
 
 ## Course 4: **To be added.**
