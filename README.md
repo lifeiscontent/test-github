@@ -3,7 +3,6 @@ This is my Learn.ModernDeveloper repository for the entire time that I am a stud
 
 # Table of Contents
 
----
 
 ## [Course 1: Command Line for Web Developers and Mastering Git and GitHub](Course-01-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub/)
 
