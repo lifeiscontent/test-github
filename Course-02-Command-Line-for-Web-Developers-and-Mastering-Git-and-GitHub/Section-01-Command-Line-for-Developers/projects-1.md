@@ -90,25 +90,9 @@ ___
 
 ### Intermediate Project 5
 
-> Use **curl** to get the contents of study.moderndeveloper.com and store the contents inside a file, study.html. When you request the file, it will retrieve the web page of the first web server that responds, which, in this case, is a server that indicates when the web page has been relocated. This routine occurrence is called a **redirection**. You will learn more about server redirects in an upcoming course. Use the **-L** flag to follow the redirection and receive the correct page.
-
-### Intermediate Project 6
-
 > Use the **mv** command and **Command Escaping** to rename your backup archive. Navigate to the **backups** directory and rename your backup1.tar archive to the output of the **date** command. That is, whatever the output (the text) of the **date** command is, use that text as the new name for your **backup1.tar** file.
 
-### Intermediate Project 7
-
-> Use the **wc** command and the correct flag to determine how many words you wrote inside your **dreamproject.m**d file. If the file contains fewer than 20 words (the **if** is not programmatic), append another two sentences to the file. Use those two sentences to describe your dream project.
-
-### Intermediate Project 8
-
-> Use the **grep ** command to find all JavaScript files located inside your **study.html** file by searching for **“\\.js**“. Save the result to a new file, **javascripts.html**
-
-### Intermediate Project 9
-
-> Let’s find out the total number of words inside of the text files (**.txt**) that you created. Use the **cat** command to list all of the contents of the text files inside of your commandline-practice folder; then pipe (**|**) the output of the **cat** command to the word count program (**wc**).
-
-### Intermediate Project 10
+### Intermediate Project 6
 
 > Your workspace has undergone many changes since your last backup. Create another backup file using **tar** and the directions in exercise 3; name your backup **backup2.tar**. Let’s clear out the workspace. **find** all Markdown files, html files, and text files, and remove them by passing the **-delete** flag to your **find** command. Be careful to not delete your backups folder.
 
@@ -164,18 +148,3 @@ ___
 	$ ./mdtemplate ./mysite 'Template Site Title'
 	
 > Good luck!
-
-### Advanced Project 3
-
->Create a script named **web_bundler** that concatenates—or **adds** the contents of—all files of a specified type, from a specified directory, into a single file.
->Create web_bundler to have the following positional parameters:
->
->- **$1**, the name of the output file.
->
->- **$2**, the find pattern, which tells the script which file path to follow, and which file names to bundle. Examples of file patterns include *.html, *.txt, and template-*.
->
->Here’s an example of how to use web_bundler:
->
->	$ ./web_bundler bundle.js "./js/partials/*.js"
->	
->And don't forget: If you get stuck on this question, or any of the above questions, you can use our [QA Board](qa.moderndeveloper.com) to get help!
