@@ -25,8 +25,8 @@ If you want to change your career path or have any question or matter that relat
 
 For questions regarding billing and invoicing or payment, contact billing@bovacademy.com.
 
-#### Other Questions or if You Don't Know Where to Ask a Particular Questions
+#### Other Questions or if You Don't Know Where to Ask a Particular Question
 
-If you are lost on anything, contact our student ambassador Nathan J Plummer at nathanp@bovacademy.com, or email issues@bovacademy.com.
+If you are lost on anything, contact our student ambassador Nathan J Plummer at nathanp@bovacademy.com, or email issues@bovacademy.com if the matter is urgent.
 
 If Nathan is unable to answer your question directly he will forward your message to the correct department.
