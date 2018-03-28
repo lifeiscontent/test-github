@@ -80,21 +80,31 @@ ___
 
 > Find out which of the files that you wrote in the previous step had the largest file size. Write the command and the correct flags to list the files and their file size in human readable and long format. Then add the output to this file: **filesizes.txt**.
 
+	Add your answer here
+
 ### Intermediate Project 3
 
 > Let’s create a backups folder and backup the files we’ve written so far. Create a new directory and name it backups. Use the tar command to archive the contents of your commandline-practice folder. Name your archived file **backup1.tar** and save it inside your **backups** folder.
+
+	Add your answer here
 
 ### Intermediate Project 4
 
 > Create a file **sites.txt** using the **echo** command and add to it a list of your favorite websites, each on its own line. You’ll need to type the newline character **(\n)** and the **echo** flag that *enables interpretation of backslash escapes*.
 
+	Add your answer here
+
 ### Intermediate Project 5
 
 > Use the **mv** command and **Command Escaping** to rename your backup archive. Navigate to the **backups** directory and rename your backup1.tar archive to the output of the **date** command. That is, whatever the output (the text) of the **date** command is, use that text as the new name for your **backup1.tar** file.
 
+	Add your answer here
+
 ### Intermediate Project 6
 
 > Your workspace has undergone many changes since your last backup. Create another backup file using **tar** and the directions in exercise 3; name your backup **backup2.tar**. Let’s clear out the workspace. **find** all Markdown files, html files, and text files, and remove them by passing the **-delete** flag to your **find** command. Be careful to not delete your backups folder.
+
+	Add your answer here
 
 
 ## Advanced 
@@ -148,3 +158,5 @@ ___
 	$ ./mdtemplate ./mysite 'Template Site Title'
 	
 > Good luck!
+
+	Add your answer here
