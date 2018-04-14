@@ -1,5 +1,5 @@
 # Introduction to HTML Fundamentals
 
-### Questions
+### Exercises
 
-[questions.md](./questions.md)
+[exercises.md](./exercises.md)
